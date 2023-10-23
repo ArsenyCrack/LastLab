@@ -1,0 +1,4 @@
+﻿  CarRacingGame.cpp
+D:\CarRacingGame\CarRacingGame\CarRacingGame.cpp(56,24): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+D:\CarRacingGame\CarRacingGame\CarRacingGame.cpp(64,24): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  CarRacingGame.vcxproj -> D:\CarRacingGame\x64\Debug\CarRacingGame.exe
