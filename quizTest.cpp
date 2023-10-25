@@ -1,8 +1,10 @@
 ﻿#include <iostream>
-
+#include <Windows.h>
 using namespace std;
 
 int main() {
+    SetConsoleOutputCP(CP_UTF8);
+    system("cls");
     string name;
     int score = 0;
     char answer1, answer2, answer3, answer4, answer5, answer6, answer7, answer8, answer9, answer10;
