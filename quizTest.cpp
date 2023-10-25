@@ -2,7 +2,7 @@
 #include <Windows.h>
 using namespace std;
 
-int main() {
+int quiz() {
     SetConsoleOutputCP(CP_UTF8);
     system("cls");
     string name;
