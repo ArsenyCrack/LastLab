@@ -1,3 +1,2 @@
 Instruction:
-You need to open project in Visual Studio, if you want to play.
-CarRacingGame.sln is a project game 
+If you want to play, you need to open folder "x64" and choose a game (.exe)
