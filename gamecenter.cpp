@@ -1,7 +1,7 @@
 #include <iostream>
 #include "snake.h"
 #include "CarRacing.h"
-#include "quiz.h"
+#include "quizTest.h"
 #include "dice.h"
 #include <conio.h>
 #include "functions.h"
