@@ -1,5 +1,6 @@
 #include <iostream>
 #include <Windows.h>
+#include <ctime>
 
 void gotox(int x, int y) {
     COORD pos = {static_cast<SHORT>(x), static_cast<SHORT>(y)};
