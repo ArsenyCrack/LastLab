@@ -1,2 +1,2 @@
 Instruction:
-If you want to play, you need to open path "x64/Debug" and choose a game (.exe)
+CMD: g++ gamecenter.cpp quizTest.cpp snake.cpp dice.cpp CarRacing.cpp functions.cpp -o gamecenter
