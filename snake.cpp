@@ -131,4 +131,5 @@ int snake(){
     gotox(1, HEIGHT/2);
     std::cout << "YOU SCORE IS " << snake_len;
     gotox(WIDTH, HEIGHT);
+    return 0;
 }
